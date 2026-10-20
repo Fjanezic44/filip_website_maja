@@ -1,0 +1,2 @@
+# Preusmeritev z www na glavno domeno (prilagodite DOMENA.si)
+https://www.DOMENA.si/* https://DOMENA.si/:splat 301
